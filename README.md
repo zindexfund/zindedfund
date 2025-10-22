@@ -34,7 +34,6 @@ Instead of a DAO or airdrops, my coin is **pegged** to this group — inflows ar
 | `$11AM` | 11AM w/ Seed Club |
 | `$LATENIGHTONBASE` | Late Night On Base |
 | `$VISUALIZEVALUE` | Visualize Value |
-| `$TBD11` | *(replace with the actual #11)* |
 | `$SHL0MS` | shl0ms |
 | `$BBALLHY` | bballhy |
 | `$CC0STUDIOS` | CC0 Studios |
