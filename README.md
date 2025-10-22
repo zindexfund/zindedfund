@@ -21,8 +21,6 @@ Instead of a DAO or airdrops, my coin is **pegged** to this group — inflows ar
 
 ## 🧩 Creator Basket (Top 15)
 
-> Based on your screenshots: ranks **1–10** and **12–15**. Replace **$TBD11** with the actual rank #11 when ready.
-
 | Ticker | Creator |
 |:-------|:--------|
 | `$PROPAGANDA` | Propaganda |
@@ -43,8 +41,4 @@ Instead of a DAO or airdrops, my coin is **pegged** to this group — inflows ar
 > Pegged exposure model — informational only.  
 > Not a DAO, token sale, or financial product.
 
----
 
-## 🌐 Live Preview
-
-Once you enable GitHub Pages, your site will be available at:
