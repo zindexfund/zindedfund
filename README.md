@@ -13,30 +13,32 @@ Instead of a DAO or airdrops, my coin is **pegged** to this group — inflows ar
 |----------|-------------|
 | **Goal** | Mirror Zora’s top creators via a single exposure token |
 | **Mechanism** | Peg inflows to weighted creator coins |
-| **Launch** | Hosted on [Zora](https://zora.co) (account pending — *fill in zora account*) |
+| **Launch** | Hosted on [Zora](https://zora.co/@zindexfund)
 | **Social** | [@zindexfund](https://x.com/zindexfund) |
 
 ---
 
-## 🧩 Creator Basket
+## 🧩 Creator Basket (Top 15)
+
+> Based on your screenshots: ranks **1–10** and **12–15**. Replace **$TBD11** with the actual rank #11 when ready.
 
 | Ticker | Creator |
 |:-------|:--------|
-| `$DOCKER` | DockerZXBT |
-| `$BALAJIS` | balajis |
-| `$COINAGE` | coinage |
-| `$KAZONOMICS` | kazonomics |
-| `$BASESHAKE` | BaseShake |
-| `$METACADEMAX` | MetacadeMax |
-| `$FARCATS` | Farcats |
-| `$ALEXANDERELORENZO` | alexanderelorenzo |
-| `$MEMORYPROTOCOL` | MemoryProtocol |
-| `$ZORBYAI` | ZorbyAI |
-| `$UNIBROS` | Unibros |
-| `$ZXBT` | ZXBT Labs |
 | `$PROPAGANDA` | Propaganda |
-| `$LATENIGHTONBASE` | LateNightOnBase |
-| `$BANKLESSHQ` | BanklessHQ |
+| `$DOCKER` | Docker |
+| `$BALAJIS` | Balaji |
+| `$COINAGE` | Coinage Media |
+| `$JACOB` | jacob |
+| `$ZORATV` | Zora TV |
+| `$ZXBT` | zxbt |
+| `$11AM` | 11AM w/ Seed Club |
+| `$LATENIGHTONBASE` | Late Night On Base |
+| `$VISUALIZEVALUE` | Visualize Value |
+| `$TBD11` | *(replace with the actual #11)* |
+| `$SHL0MS` | shl0ms |
+| `$BBALLHY` | bballhy |
+| `$CC0STUDIOS` | CC0 Studios |
+| `$CRYPTICPOET` | Cryptic Poet |
 
 > Pegged exposure model — informational only.  
 > Not a DAO, token sale, or financial product.
@@ -45,4 +47,4 @@ Instead of a DAO or airdrops, my coin is **pegged** to this group — inflows ar
 
 ## 🌐 Live Preview
 
-You can view the live page here once published on GitHub Pages:
+Once you enable GitHub Pages, your site will be available at:
