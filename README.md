@@ -1,12 +1,12 @@
-# 💠 $ZINDEX — Pegged to Top Zora Creators
+# 💠 $ZINDEXFUND — Pegged to Top Zora Creators
 
-### Neon-Cyberpunk Index • On-Chain Exposure • Base / Zora Ecosystem
+### Index • On-Chain Exposure • Base / Zora Ecosystem
 
 ---
 
-## ⚙️ What Is $ZINDEX?
+## ⚙️ What Is $ZINDEXFUND?
 
-$ZINDEX is a **simple pegged basket** of the top creator coins on Zora (Base chain).  
+$ZINDEXFUND is a **simple pegged basket** of the top creator coins on Zora (Base chain).  
 Instead of a DAO or airdrops, my coin is **pegged** to this group — inflows are proportionally balanced across the selected creators.
 
 | Purpose | Description |
