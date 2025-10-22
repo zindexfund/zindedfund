@@ -15,6 +15,7 @@ Instead of a DAO or airdrops, my coin is **pegged** to this group — inflows ar
 | **Mechanism** | Peg inflows to weighted creator coins |
 | **Launch** | Hosted on [Zora](https://zora.co/@zindexfund)
 | **Social** | [@zindexfund](https://x.com/zindexfund) |
+| **Discord** | Building our [Discord](https://discord.gg/87YfXu7J) Looking for mods
 
 ---
 
